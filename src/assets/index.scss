@@ -320,19 +320,6 @@ a {
     background: linear-gradient(0deg, rgba(76,71,163,1) 0%, rgba(77,161,94,1) 35%, rgba(40,184,213,1) 100%);
   }
 
-  &.disable {
-    cursor: not-allowed;
-    color: #969696;
-    background: -moz-linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(1,0,121,1) 35%, rgba(0,18,164,1) 100%);
-    background: -webkit-linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(1,0,121,1) 35%, rgba(0,18,164,1) 100%);
-    background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(1,0,121,1) 35%, rgba(0,18,164,1) 100%);
-    .rl {
-      cursor: not-allowed;
-      color: #969696;
-      padding: 6px;
-    }
-  }
-
   &__wrapper {
     width: 100%;
     height: auto;
